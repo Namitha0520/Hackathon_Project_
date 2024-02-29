@@ -1,0 +1,41 @@
+16:01:26.995 [main] INFO  testCase.TC_001_BookShelves - ********* starting TC_001_DisplayBookShelves *********
+16:01:27.063 [main] INFO  testCase.TC_001_BookShelves - Searching for BookShelves
+16:01:34.272 [main] INFO  testCase.TC_001_BookShelves - Select Category
+16:01:34.906 [main] INFO  testCase.TC_001_BookShelves - Performing Slider Action on Price
+16:01:34.906 [main] INFO  testCase.TC_001_BookShelves - Select Price Below 15000
+16:01:40.585 [main] INFO  testCase.TC_001_BookShelves - ********* starting TC_002_RetriveAllItems *********
+16:01:40.588 [main] INFO  testCase.TC_001_BookShelves - Go to Living Category-----
+16:01:40.678 [main] INFO  testCase.TC_001_BookShelves - Selecting Submenu Item like Seating & Chairs
+16:01:40.679 [main] INFO  testCase.TC_001_BookShelves - Retrive All Submenu Items from Seating & Chairs
+16:01:42.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:01:42.177 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:01:43.409 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:01:43.536 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:01:43.544 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:01:43.546 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:01:43.551 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:01:43.552 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:01:43.552 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+16:01:43.553 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:01:43.557 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:01:43.557 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+16:01:43.817 [main] INFO  testCase.TC_001_BookShelves - ********* starting TC_003_GiftCards *********
+16:01:43.825 [main] INFO  testCase.TC_001_BookShelves - Setting up Excel Sheet Read Data-----
+16:01:43.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:01:43.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:01:43.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:01:43.908 [main] INFO  testCase.TC_001_BookShelves - Go to GiftCards-----
+16:01:43.908 [main] INFO  testCase.TC_001_BookShelves - Scrolling upto BirthdayCard
+16:01:43.908 [main] INFO  testCase.TC_001_BookShelves - Select Birthday/Anniversary Card
+16:14:08.761 [main] INFO  testCase.TC_001_BookShelves - ********* starting TC_001_DisplayBookShelves *********
+16:14:08.895 [main] INFO  testCase.TC_001_BookShelves - Searching for BookShelves
+16:14:11.980 [main] INFO  testCase.TC_001_BookShelves - ********* starting TC_002_RetriveAllItems *********
+16:14:11.984 [main] INFO  testCase.TC_001_BookShelves - Go to Living Category-----
+16:14:12.024 [main] INFO  testCase.TC_001_BookShelves - ********* starting TC_003_GiftCards *********
+16:14:12.031 [main] INFO  testCase.TC_001_BookShelves - Setting up Excel Sheet Read Data-----
+16:14:12.396 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:14:12.401 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:14:12.403 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:14:13.646 [main] INFO  testCase.TC_001_BookShelves - Go to GiftCards-----
+16:14:13.646 [main] INFO  testCase.TC_001_BookShelves - Scrolling upto BirthdayCard
+16:14:13.646 [main] INFO  testCase.TC_001_BookShelves - Select Birthday/Anniversary Card
